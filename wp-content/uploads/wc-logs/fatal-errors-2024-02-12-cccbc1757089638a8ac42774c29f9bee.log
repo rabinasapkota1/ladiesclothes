@@ -1,0 +1,4 @@
+2024-02-12T12:59:05+00:00 CRITICAL Out of memory (allocated 62914560) (tried to allocate 28672 bytes) in C:\Users\Dell\Documents\workspace\ladiesclothing\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-orders-v2-controller.php on line 204
+
+2024-02-12T13:08:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\Dell\Documents\workspace\ladiesclothing\wp-includes\Requests\src\Transport\Curl.php on line 205
+
